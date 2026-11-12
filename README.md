@@ -300,12 +300,3 @@ Containers stopped without leaving zombie processes.
 * Achieved isolation using namespaces and `chroot()`
 * Integrated kernel monitoring using a module
 * Demonstrated scheduling behavior across workloads
-
----
-
----
-
-## 👤 Author
-
-* **Tanmayi Nagabhairava** ([@Tanmayi-n14](https://github.com/Tanmayi-n14)) — `PES1UG24CS493`
-* Department of Computer Science & Engineering, PES University
